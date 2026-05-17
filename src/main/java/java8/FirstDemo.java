@@ -10,7 +10,7 @@ public class FirstDemo {
         List<Integer> li =Arrays.asList(66,32,45,12,20);
             for(int i =0; i <li.size();i++){
                 System.out.println(li.get(i));
-                System.out.println("-00----");
+                System.out.println("-");
             }
 
         System.out.println("===================");
